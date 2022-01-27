@@ -3,6 +3,8 @@
 #
 # Cross site scripting mitigation
 #
+# Adjust as needed for your situation.
+#
 # https://content-security-policy.com/
 # https://csp.withgoogle.com/docs/index.html
 # https://csp-evaluator.withgoogle.com/
